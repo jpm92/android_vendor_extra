@@ -15,7 +15,7 @@
     <!-- Popup camera settings -->
     <string name="popup_title">Configuración de la cámara frontal</string>
     <string name="popup_led_title">LED de la cámara</string>
-    <string name="popup_led_summary">Enable LED light while the front camera appears and retracts</string>
+    <string name="popup_led_summary">Activar el LED de la cámara mientras ésta se mueve</string>
     <string name="popup_sound_title">Efectos de sonido</string>
     <string name="popup_sound_muqin">Xylophone</string>
     <string name="popup_sound_yingyan">Condor</string>
